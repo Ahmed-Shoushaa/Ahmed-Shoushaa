@@ -9,7 +9,7 @@
 
 ### 📝 Scripting Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/$Bash-D3D3D3?style=for-the-badge&logo=bash&logoColor=lightgrey)
+![](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🧰 Tools
 ![](https://img.shields.io/badge/Kubernetes-0000FF?style=for-the-badge&logo=kubernetes&logoColor=white)
