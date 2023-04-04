@@ -20,6 +20,8 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Ansible-FFFFFF?style=for-the-badge&logo=ansible&logoColor=black)
 ![](https://img.shields.io/badge/Terrform-232F3E?style=for-the-badge&logo=terraform&logoColor=purple)
+![](https://img.shields.io/badge/Prometheus-808080?style=for-the-badge&logo=Prometheus&logoColor=orange)
+
 
 
 
