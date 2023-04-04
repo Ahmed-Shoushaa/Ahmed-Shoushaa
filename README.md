@@ -7,7 +7,7 @@
 - ✍️ <samp>I like music, movies and would love to explore hidden parts of the world.</samp>
 <!-- - ⚡ <samp>Fun fact: ...</samp> -->
 
-### 🥼 Scripting Languages
+### 📝 Scripting Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/$Bash-D3D3D3?style=for-the-badge&logo=bash&logoColor=lightgrey)
 
