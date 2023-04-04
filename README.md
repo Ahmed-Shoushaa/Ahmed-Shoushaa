@@ -7,6 +7,8 @@
 - ✍️ <samp>I like music, movies and would love to explore hidden parts of the world.</samp>
 <!-- - ⚡ <samp>Fun fact: ...</samp> -->
 
+## 🛠 Tech Stack
+
 ### 📝 Scripting Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
