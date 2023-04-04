@@ -1,6 +1,6 @@
 # 👻 Hallo!
 ![profile count](https://komarev.com/ghpvc/?username=Ahmed-Shoushaa&color=red)&nbsp;
-[![GitHub Ahmed-Shoushaa](https://img.shields.io/github/followers/Ahmed_shoushaa?label=follow&style=social)](https://github.com/Ahmed-Shoushaa?tab=followers)
+[![GitHub Ahmed-Shoushaa](https://img.shields.io/github/followers/Ahmed-shoushaa?label=follow&style=social)](https://github.com/Ahmed-Shoushaa?tab=followers)
 
 - 💻 <samp>I like to code, automate, try everything new.</samp>
 - 🌱 <samp>I'm currently diving into the deeper sides of the **DevOps Culture** and learning more day by day.</samp>
