@@ -40,9 +40,9 @@
   <img align="center" src="https://i.imgur.com/x3GILQR.png" height="275"/>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/c39b7490-0bab-4b60-8b24-e555b31c01f6" height="275"/>
-</p>
+[<p align="center">]: #
+  [<img align="center" src="https://github.com/user-attachments/assets/c39b7490-0bab-4b60-8b24-e555b31c01f6" height="275"/>]: #
+[</p>]: #
 
 
 
